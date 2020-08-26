@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'DBZArrayToString'" />
-    <option name="defaultScopeName" value="Project 'DBZArrayToString'" />
-    <option name="SEARCH_SCOPE" value="Project 'DBZArrayToString'" />
+    <option name="customScope" value="Project 'PGConnectors'" />
+    <option name="defaultScopeName" value="Project 'PGConnectors'" />
+    <option name="SEARCH_SCOPE" value="Project 'PGConnectors'" />
   </component>
 </application>
