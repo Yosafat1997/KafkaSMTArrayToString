@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'PGConnectors'" />
-    <option name="defaultScopeName" value="Project 'PGConnectors'" />
-    <option name="SEARCH_SCOPE" value="Project 'PGConnectors'" />
+    <option name="customScope" value="Project 'kafka-connect-jdbc'" />
+    <option name="defaultScopeName" value="Project 'kafka-connect-jdbc'" />
+    <option name="SEARCH_SCOPE" value="Project 'kafka-connect-jdbc'" />
   </component>
 </application>
